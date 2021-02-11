@@ -1,4 +1,4 @@
-# React-Native-Screenshot-Protect
+# React Native Screenshot Protect
 ✍️ Prevent Users from Taking Screenshot in React Native
 
 ## Tutorial
